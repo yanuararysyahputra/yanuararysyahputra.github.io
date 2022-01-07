@@ -1,0 +1,30 @@
+body {
+	min-height: 2000px;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #E6E6FA	;
+}
+
+#projects {
+	background-color: #E6E6FA;
+}
+
+.row .card:hover{
+	box-shadow: 4px 4px 4px rgba(0,0,0,0,4);
+	transform: scale(1.02);
+}
+
+.btn-check:hover{
+
+	transform: scale(1.02);
+}
+
+.btn{
+	border-radius: 20px;
+}
+
+section {
+	padding-top: 5rem;
+}
