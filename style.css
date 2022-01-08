@@ -4,7 +4,7 @@ body {
 
 .jumbotron {
 	padding-top: 6rem;
-	background-color: #E6E6FA	;
+	background-color: #E6E6FA;
 }
 
 #projects {
@@ -16,10 +16,6 @@ body {
 	transform: scale(1.02);
 }
 
-.btn-check:hover{
-
-	transform: scale(1.02);
-}
 
 .btn{
 	border-radius: 20px;
